@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3C45F8185CC7AFD2056DD527D1F95B44"
+               BlueprintIdentifier = "FD0384AF4AA8F38D27ADCD417B4C8757"
                BuildableName = "libRNTextDetector.a"
                BlueprintName = "RNTextDetector"
                ReferencedContainer = "container:Pods.xcodeproj">

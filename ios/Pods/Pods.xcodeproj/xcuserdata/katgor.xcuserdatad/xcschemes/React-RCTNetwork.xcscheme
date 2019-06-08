@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B83BC9A3C538A496A14A4830C8DE8CD9"
+               BlueprintIdentifier = "5761BEF46D789E245462E0E58535C7AD"
                BuildableName = "libReact-RCTNetwork.a"
                BlueprintName = "React-RCTNetwork"
                ReferencedContainer = "container:Pods.xcodeproj">

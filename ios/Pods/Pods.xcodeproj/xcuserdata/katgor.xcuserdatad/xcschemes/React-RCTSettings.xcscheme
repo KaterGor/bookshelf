@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7E8D1598BE13EB0A35F23CE32F8ED905"
+               BlueprintIdentifier = "5515DB4E79110378239957FCAD8EFFB1"
                BuildableName = "libReact-RCTSettings.a"
                BlueprintName = "React-RCTSettings"
                ReferencedContainer = "container:Pods.xcodeproj">

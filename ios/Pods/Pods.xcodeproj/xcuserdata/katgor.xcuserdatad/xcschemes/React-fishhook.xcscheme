@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C8020F9CA045342FA84B71B3FFAE391F"
+               BlueprintIdentifier = "59EC7E7F017624D68FECAA03CB2DA1B6"
                BuildableName = "libReact-fishhook.a"
                BlueprintName = "React-fishhook"
                ReferencedContainer = "container:Pods.xcodeproj">

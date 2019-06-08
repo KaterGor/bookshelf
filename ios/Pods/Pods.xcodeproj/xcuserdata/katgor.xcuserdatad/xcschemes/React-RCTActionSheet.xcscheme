@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6407B0D05BD5F27436ECA915A50249B0"
+               BlueprintIdentifier = "A1FB0CB7DB117E5049F6EAAFBFBE19D8"
                BuildableName = "libReact-RCTActionSheet.a"
                BlueprintName = "React-RCTActionSheet"
                ReferencedContainer = "container:Pods.xcodeproj">
